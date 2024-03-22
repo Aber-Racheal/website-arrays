@@ -1224,6 +1224,8 @@ margin-left: 20%;
     }
     
 
+
+
 }
 
 
@@ -2337,6 +2339,7 @@ margin-left: 20%;
         border-radius: 50px;
         margin: 10%;
         display: flex;
+        flex-direction: column;
         flex-direction: col;
     }
     
@@ -2468,5 +2471,6 @@ margin-left: 20%;
         font-weight: bold;
         margin-left: 10%;
     }
+
     
 }
