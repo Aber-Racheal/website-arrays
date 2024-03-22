@@ -1225,3 +1225,1248 @@ margin-left: 20%;
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:481px) and (max-width:768px){
+    .webcontent{
+    
+        border: 1px solid skyblue;
+        outline: skyblue solid 80px;
+        margin-left: 0%;
+        width: 100%;
+        
+        
+    
+        
+    }
+    
+    /* Beginning of topnavbar styling */
+    .topnavbar{
+        background-color: rgb(17, 68, 109);
+        top: 0;
+        display: flex;
+        justify-content: space-between;
+        
+    
+    }
+    
+    
+    #cyborg{
+        font-weight: bolder;
+        font-size: x-large;
+        color: whitesmoke;
+        
+    }
+    
+    #cy{
+        margin-left: 5%;
+    }
+    
+    #yellow{
+        margin-top: 10%;
+        height: 30px;
+    }
+    
+    .navlinks{
+        list-style-type: none;
+        display: inline;
+        display: flex;
+        gap: 20px;
+        font-size: larger;
+    }
+    
+    .navlinks a{
+        text-decoration: none;
+        color: whitesmoke;
+        list-style-type: none;
+        font-weight: bold;
+    }
+    
+    
+    #buttontopnavbar{
+        background-color: rgb(132, 41, 192);
+        color: whitesmoke;
+        font-size: small;
+        font-weight: bolder;
+        border-radius: 5%;
+        height: 45px;
+        width: 90%;
+        float: right;
+        margin: 10%;
+        margin-right: 15%;
+    }
+    
+    
+    
+    /* End Of topnavbar styling */
+    
+    
+    #slo{
+        margin-bottom: 0%;
+        padding: 0%;
+        display: flex;
+        gap: 20px;
+    }
+    
+    
+    .StealthDiv{
+        background-color: rgb(10, 35, 56);
+        display: flex;
+        padding: 70px;
+        padding-bottom: 0%;
+        margin-left: 0%;
+        
+        
+        
+    }
+    
+    #Stealthpara{
+        color: whitesmoke;
+        font-size: x-large;
+        font-weight: bold;
+        
+    }
+    
+    
+    
+    
+    #Private{
+        color: whitesmoke;
+        font-size: 70px;
+        font-weight: bolder;
+        margin-top: 0%;
+    }
+    
+    #Powerful{
+        color: rgb(243, 208, 52);
+      
+    }
+    
+    #getfree{
+        color: whitesmoke;
+        margin-bottom: 10%;
+    }
+    
+    .buttonStealth{
+        display: flex;
+        gap: 20px;
+    }
+    
+    #SignUp{
+        color:whitesmoke;
+        background-color: rgb(34, 178, 235);
+        font-weight: bold;
+        height: 60px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    
+    #Login{
+    border-color: skyblue;
+    color: rgb(78, 194, 240);
+    background-color: rgb(10, 35, 56);
+    font-weight: bold;
+    height: 60px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    
+    #man{
+        padding-bottom: 0%;
+        margin-bottom: 0%;
+        height: 500px;
+        width: 100%;
+        
+    }
+    
+    
+    
+    
+    
+    /* The Stealth Advantage */
+    
+    
+    
+    #advpara{
+        font-weight: bolder;
+        font-size: 60px;
+        text-align: center;
+        margin-top: 10%;
+    }
+    
+    
+    #advantage{
+        color: rgb(235, 126, 76);
+    }
+    
+    .pes{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 100px;
+    }
+    
+    
+    .privacy{
+        border: rgb(240, 197, 56) 1px;
+        width: 60px;
+        height: 60px;
+        background-color: rgb(248, 198, 90);
+        border-radius: 80px;
+        margin-left: 30%;
+        
+    
+    }
+    #privacy{
+       margin: 5%;
+       margin-top: 10%;
+       margin-left: 10%;
+       
+    }
+    
+    #privacyfirst{
+        text-align: center;
+    }
+    
+    
+    
+    .privacy1{
+        border:aqua;
+        width: 60px;
+        height: 60px;
+        background-color: rgb(63, 233, 233);
+        border-radius: 80px;
+        margin-left: 30%;
+    }
+    
+    
+    #search{
+        margin: 5%;
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    
+    
+    .privacy2{
+        border:grey;
+        width: 60px;
+        height: 60px;
+        background-color: rgb(197, 193, 193);
+        border-radius: 80px;
+        margin-left: 30%;
+    }
+    
+    
+    #secure{
+        margin: 5%;
+        margin-top: 20%;
+        margin-left: 20%;
+        width: 30px;
+    }
+    
+    .pes a{
+        text-decoration: none;
+        color: black;
+        font-weight: bolder;
+        font-size: large;
+    
+    }
+    
+    #par{
+        text-align: center;
+        color: rgb(95, 92, 92);
+    }
+    
+    
+    
+    
+    
+    /* Expert People Analytics */
+    
+    .expert{
+        display: flex;
+        flex-direction: row;
+        margin-top: 10%;
+        justify-content: center;
+        gap: 60px;
+        padding: 0%;
+        padding-right: 0%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    
+    #imagephone{
+        height: 1000px;
+        width: 100%;
+    }
+    
+    
+    #expertpeople{
+        color: black;
+        font-size: 50px;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    
+    #spananalytics{
+        color: rgb(156, 51, 51);
+    }
+    
+    #many{
+        font-size: large;
+        padding: 5%;color: rgb(59, 58, 58);
+        
+    }
+    
+    .checks{
+        display: flex;
+        
+    }
+    
+    #check{
+        width: 50px;
+    }
+    
+    #p{
+        padding: 5px;
+        font-size: large;
+        color: rgb(78, 74, 74);
+        font-weight: bold;
+    }
+    
+    
+    #getstarted{
+        background-color: rgb(90, 73, 187);
+        border-radius: 10px;
+        color: whitesmoke;
+        height: 55px;
+        width: 200px;
+        font-weight: bolder;
+        font-size: large;
+        margin-top: 3%;
+    }
+    
+    
+    
+    /* seamless integration */
+    
+    .seamless{
+        background-color: rgb(149, 248, 248);
+        padding: 30px;
+        padding-bottom: 0%;
+        margin-top: 5%;
+        
+    
+    }
+    
+    #seam{
+        color: rgb(14, 13, 13);
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+    
+    }
+    
+    #integration{
+        color: rgb(245, 126, 83);
+    
+    }
+    
+    #searchyour{
+        text-align: center;
+        font-size: x-large;
+        color: rgb(54, 49, 49);
+    }
+    
+    
+    #explore{
+        width: 20%;
+        color: black;
+        background-color: rgb(240, 205, 68);
+        border-radius: 10px;
+        height: 50px;
+        margin-top: 2%;
+        margin-left: 40%;
+        font-size: larger;
+        
+    }
+    
+    #analyticsimages{
+        margin-left: 25% ;
+        margin-right: 25%;
+        padding-bottom: 0%;
+        width: 50%;
+        margin-top: 5%;
+    }
+    
+    
+    
+    /* Blog highlights */
+    
+    .blog{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-left: 5%;
+        margin-right: 5%;
+        
+    }
+    
+    
+    
+    #blogpara{
+        font-weight: bolder;
+        font-size: 50px;
+    
+    }
+    
+    #high{
+        color:rgb(209, 102, 63); 
+    }
+    
+    #viewbutton{
+        float: right;
+        margin-top: 30%;
+        margin-right: 30%;
+        background-color: rgb(70, 52, 173);
+        color: whitesmoke;
+        height: 55px;
+        width: 200px;
+        font-weight: bolder;
+        font-size: large;
+        border-radius: 10px;
+    }
+    
+    .pics{
+        display: flex;
+        flex-direction: row;
+        margin:5%;
+        
+    }
+    
+    
+    #lady{
+        width: 90%;
+        border-radius: 20px;
+    }
+    
+    
+    #encrypted{
+        color: rgb(107, 206, 245);
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    #general{
+        color:rgb(209, 102, 63);  
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    
+    #information{
+        color: rgb(70, 52, 173);
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    #encrypt{
+        color: rgb(31, 30, 30);
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    
+    #sy{
+        font-size: x-large;
+    }
+    
+    #log{color:skyblue;
+    background-color: whitesmoke;
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    border: skyblue 2px solid;
+    border-radius: 10px;
+    }
+    
+    
+    .divbeforefooter{
+        background-color: rgb(10, 35, 56);
+        border-radius: 50px;
+        margin: 10%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #wanttobe{
+        color: whitesmoke;
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    
+    #ourteam{
+        color: rgb(240, 205, 68);
+    }
+    
+    #beapart{
+        color: rgb(185, 183, 183);
+        font-size: x-large;
+        font-weight: bolder;
+        text-align: center;
+    }
+    
+    #jobopening{
+        background-color: rgb(46, 159, 204);
+        color: whitesmoke;
+        font-size: large;
+    font-weight: bold;
+    height: 70px;
+    width: 50%;
+    border: rgb(23, 58, 71) 2px solid;
+    border-radius: 20px;
+    margin: 10%;
+    margin-left: 20%;
+    }
+    
+    
+    .footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-evenly;
+        
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    .footer ul{
+        list-style-type:none ;
+        
+    }
+    
+    
+    .footer a{
+        text-decoration: none;
+        color:rgb(216, 213, 213);
+        font-weight: 900px;
+        font-size: medium;
+        
+        
+        
+    
+    }
+    
+    
+    #sub{
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    .last{
+        border-bottom: 3px solid whitesmoke;
+        margin: 5%;
+        margin-bottom: 0%;
+    }
+    
+    #decode{
+        margin-top: 0%;
+        padding: 0%;
+    }
+    
+    
+    
+    
+    .line{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 1%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 0%;
+        margin-bottom: 0%;
+        color: whitesmoke;
+        font-weight: bold;
+    }
+    
+    
+    
+    .foot{
+        background-color: rgb(29, 99, 128);
+        padding: 0px;
+        margin-bottom: 0%;
+    }
+    
+    #pf{
+        color: whitesmoke;
+        font-weight: bolder;
+        font-size: larger;
+        text-align: center
+    
+    }
+    
+    #email{
+        height: 50px;
+        border-radius: 10px;
+        background-color: rgb(61, 87, 201);
+        color: rgb(240, 231, 231);
+        width: 200%;
+    }
+    
+    
+    #email::placeholder{
+        color: whitesmoke;
+        font-size: larger;
+        font-weight: bold;
+        margin-left: 10%;
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:769px) and (max-width:1024px){
+    .webcontent{
+        margin: 5%;
+        border: 1px solid skyblue;
+        outline: skyblue solid 980px;
+        
+        
+    
+        
+    }
+    
+    /* Beginning of topnavbar styling */
+    .topnavbar{
+        background-color: rgb(17, 68, 109);
+        top: 0;
+        display: flex;
+        justify-content: space-between;
+        
+    
+    }
+    
+    
+    #cyborg{
+        font-weight: bolder;
+        font-size: x-large;
+        color: whitesmoke;
+        
+    }
+    
+    #cy{
+        margin-left: 5%;
+    }
+    
+    #yellow{
+        margin-top: 10%;
+        height: 30px;
+    }
+    
+    .navlinks{
+        list-style-type: none;
+        display: inline;
+        display: flex;
+        gap: 20px;
+        font-size: larger;
+    }
+    
+    .navlinks a{
+        text-decoration: none;
+        color: whitesmoke;
+        list-style-type: none;
+        font-weight: bold;
+    }
+    
+    
+    #buttontopnavbar{
+        background-color: rgb(132, 41, 192);
+        color: whitesmoke;
+        font-size: large;
+        font-weight: bolder;
+        border-radius: 5%;
+        height: 45px;
+        width: 150%;
+        float: right;
+        margin: 10%;
+    }
+    
+    
+    
+    /* End Of topnavbar styling */
+    
+    
+    #slo{
+        margin-bottom: 0%;
+        padding: 0%;
+        display: flex;
+        gap: 20px;
+    }
+    
+    
+    .StealthDiv{
+        background-color: rgb(10, 35, 56);
+        display: flex;
+        padding: 70px;
+        padding-bottom: 0%;
+        
+        
+        
+    }
+    
+    #Stealthpara{
+        color: whitesmoke;
+        font-size: x-large;
+        font-weight: bold;
+        
+    }
+    
+    
+    
+    
+    #Private{
+        color: whitesmoke;
+        font-size: 70px;
+        font-weight: bolder;
+        margin-top: 0%;
+    }
+    
+    #Powerful{
+        color: rgb(243, 208, 52);
+      
+    }
+    
+    #getfree{
+        color: whitesmoke;
+        margin-bottom: 10%;
+    }
+    
+    .buttonStealth{
+        display: flex;
+        gap: 20px;
+    }
+    
+    #SignUp{
+        color:whitesmoke;
+        background-color: rgb(34, 178, 235);
+        font-weight: bold;
+        height: 60px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    
+    #Login{
+    border-color: skyblue;
+    color: rgb(78, 194, 240);
+    background-color: rgb(10, 35, 56);
+    font-weight: bold;
+    height: 60px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    
+    #man{
+        padding-bottom: 0%;
+        margin-bottom: 0%;
+        height: 700px;
+        width: 100%;
+        
+    }
+    
+    
+    
+    
+    
+    /* The Stealth Advantage */
+    
+    
+    
+    #advpara{
+        font-weight: bolder;
+        font-size: 60px;
+        text-align: center;
+        margin-top: 10%;
+    }
+    
+    
+    #advantage{
+        color: rgb(235, 126, 76);
+    }
+    
+    .pes{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 100px;
+    }
+    
+    
+    .privacy{
+        border: rgb(240, 197, 56) 1px;
+        width: 60px;
+        height: 60px;
+        background-color: rgb(248, 198, 90);
+        border-radius: 80px;
+        margin-left: 30%;
+        
+    
+    }
+    #privacy{
+       margin: 5%;
+       margin-top: 10%;
+       margin-left: 10%;
+       
+    }
+    
+    #privacyfirst{
+        text-align: center;
+    }
+    
+    
+    
+    .privacy1{
+        border:aqua;
+        width: 60px;
+        height: 60px;
+        background-color: rgb(63, 233, 233);
+        border-radius: 80px;
+        margin-left: 30%;
+    }
+    
+    
+    #search{
+        margin: 5%;
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    
+    
+    .privacy2{
+        border:grey;
+        width: 60px;
+        height: 60px;
+        background-color: rgb(197, 193, 193);
+        border-radius: 80px;
+        margin-left: 30%;
+    }
+    
+    
+    #secure{
+        margin: 5%;
+        margin-top: 20%;
+        margin-left: 20%;
+        width: 30px;
+    }
+    
+    .pes a{
+        text-decoration: none;
+        color: black;
+        font-weight: bolder;
+        font-size: large;
+    
+    }
+    
+    #par{
+        text-align: center;
+        color: rgb(95, 92, 92);
+    }
+    
+    
+    
+    
+    
+    /* Expert People Analytics */
+    
+    .expert{
+        display: flex;
+        flex-direction: row;
+        margin-top: 10%;
+        justify-content: center;
+        gap: 60px;
+        padding: 0%;
+        padding-right: 0%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    
+    #imagephone{
+        height: 1000px;
+        width: 100%;
+    }
+    
+    
+    #expertpeople{
+        color: black;
+        font-size: 50px;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    
+    #spananalytics{
+        color: rgb(156, 51, 51);
+    }
+    
+    #many{
+        font-size: large;
+        padding: 5%;color: rgb(59, 58, 58);
+        
+    }
+    
+    .checks{
+        display: flex;
+        
+        
+    }
+    
+    #check{
+        width: 50px;
+    }
+    
+    #p{
+        padding: 5px;
+        font-size: large;
+        color: rgb(78, 74, 74);
+        font-weight: bold;
+    }
+    
+    
+    #getstarted{
+        background-color: rgb(90, 73, 187);
+        border-radius: 10px;
+        color: whitesmoke;
+        height: 55px;
+        width: 200px;
+        font-weight: bolder;
+        font-size: large;
+        margin-top: 3%;
+    }
+    
+    
+    
+    /* seamless integration */
+    
+    .seamless{
+        background-color: rgb(149, 248, 248);
+        padding: 30px;
+        padding-bottom: 0%;
+        margin-top: 5%;
+        
+    
+    }
+    
+    #seam{
+        color: rgb(14, 13, 13);
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+    
+    }
+    
+    #integration{
+        color: rgb(245, 126, 83);
+    
+    }
+    
+    #searchyour{
+        text-align: center;
+        font-size: x-large;
+        color: rgb(54, 49, 49);
+    }
+    
+    
+    #explore{
+        width: 20%;
+        color: black;
+        background-color: rgb(240, 205, 68);
+        border-radius: 10px;
+        height: 50px;
+        margin-top: 2%;
+        margin-left: 40%;
+        font-size: larger;
+        
+    }
+    
+    #analyticsimages{
+        margin-left: 25% ;
+        margin-right: 25%;
+        padding-bottom: 0%;
+        width: 50%;
+        margin-top: 5%;
+    }
+    
+    
+    
+    /* Blog highlights */
+    
+    .blog{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-left: 5%;
+        margin-right: 5%;
+        
+    }
+    
+    
+    
+    #blogpara{
+        font-weight: bolder;
+        font-size: 50px;
+    
+    }
+    
+    #high{
+        color:rgb(209, 102, 63); 
+    }
+    
+    #viewbutton{
+        float: right;
+        margin-top: 30%;
+        margin-right: 30%;
+        background-color: rgb(70, 52, 173);
+        color: whitesmoke;
+        height: 55px;
+        width: 200px;
+        font-weight: bolder;
+        font-size: large;
+        border-radius: 10px;
+    }
+    
+    .pics{
+        display: flex;
+        flex-direction: row;
+        margin:5%;
+        
+    }
+    
+    
+    #lady{
+        width: 90%;
+        border-radius: 20px;
+    }
+    
+    
+    #encrypted{
+        color: rgb(107, 206, 245);
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    #general{
+        color:rgb(209, 102, 63);  
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    
+    #information{
+        color: rgb(70, 52, 173);
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    #encrypt{
+        color: rgb(31, 30, 30);
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    
+    
+    #sy{
+        font-size: x-large;
+    }
+    
+    #log{color:skyblue;
+    background-color: whitesmoke;
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    border: skyblue 2px solid;
+    border-radius: 10px;
+    }
+    
+    
+    .divbeforefooter{
+        background-color: rgb(10, 35, 56);
+        border-radius: 50px;
+        margin: 10%;
+        display: flex;
+        flex-direction: col;
+    }
+    
+    #wanttobe{
+        color: whitesmoke;
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    
+    #ourteam{
+        color: rgb(240, 205, 68);
+    }
+    
+    #beapart{
+        color: rgb(185, 183, 183);
+        font-size: x-large;
+        font-weight: bolder;
+        text-align: center;
+    }
+    
+    #jobopening{
+        background-color: rgb(46, 159, 204);
+        color: whitesmoke;
+        font-size: large;
+    font-weight: bold;
+    height: 70px;
+    width: 50%;
+    border: rgb(23, 58, 71) 2px solid;
+    border-radius: 20px;
+    margin: 10%;
+    margin-left: 20%;
+    }
+    
+    
+    .footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-evenly;
+        
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    .footer ul{
+        list-style-type:none ;
+        
+    }
+    
+    
+    .footer a{
+        text-decoration: none;
+        color:rgb(216, 213, 213);
+        font-weight: 900px;
+        font-size: medium;
+        
+        
+        
+    
+    }
+    
+    
+    #sub{
+        font-weight: bolder;
+        font-size: xx-large;
+    }
+    .last{
+        border-bottom: 3px solid whitesmoke;
+        margin: 5%;
+        margin-bottom: 0%;
+    }
+    
+    #decode{
+        margin-top: 0%;
+        padding: 0%;
+    }
+    
+    
+    
+    
+    .line{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 1%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 0%;
+        margin-bottom: 0%;
+        color: whitesmoke;
+        font-weight: bold;
+    }
+    
+    
+    
+    .foot{
+        background-color: rgb(29, 99, 128);
+        padding: 0px;
+        margin-bottom: 0%;
+    }
+    
+    #pf{
+        color: whitesmoke;
+        font-weight: bolder;
+        font-size: larger;
+        text-align: center
+    
+    }
+    
+    #email{
+        height: 50px;
+        border-radius: 10px;
+        background-color: rgb(61, 87, 201);
+        color: rgb(240, 231, 231);
+        width: 200%;
+    }
+    
+    
+    #email::placeholder{
+        color: whitesmoke;
+        font-size: small;
+        font-weight: bold;
+        margin-left: 10%;
+    }
+    
+}
